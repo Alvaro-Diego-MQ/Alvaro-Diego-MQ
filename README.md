@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Diego </h1> <p align="center"> </p>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hola, soy  <a href="https://https://github.com/Alvaro-Diego-MQ">Diego</a> </h1> <p align="center"> </p>
 <p align="center">
   Desarrollador en formación | Frontend & Backend
 </p>
