@@ -28,7 +28,7 @@ Soy un apasionado de la creación de interfaces modernas y funcionales. Me enfoc
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/gifs/cat.gif" width="280px" />
+      <img src="assets/gifs/cat.gif" width="330px" />
     </td>
   </tr>
 </table>
