@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Diego%20Developer&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-0e75b6?style=for-the-badge&logoColor=white" />
@@ -82,10 +80,3 @@ Soy un entusiasta del desarrollo de software enfocado en crear experiencias digi
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Hecho con 💙 por Diego</b>
-</p>
