@@ -19,7 +19,7 @@ Gracias por visitar mi perfil de GitHub 😄
 </h2>
 
 <img width="55%" align="right"
-src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThrczYzZWN5YWUzODA0YnBnejZ4ZHgzNHQyZWI0eGZsbnd1MWd2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vY7kb1ySy3G2i08/giphy.gif)" />
 
 - 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
 - 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
