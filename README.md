@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ADiegoMQ">
-    <img src="https://img.shields.io/github/followers/ADiegoMQ?label=Seguidores&style=social">
+  <a href="https://github.com/Alvaro-Diego-MQ">
+    <img src="https://img.shields.io/github/followers/Alvaro-Diego-MQ?label=Seguidores&style=social">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ADiegoMQ&label=Visitas&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Alvaro-Diego-MQ&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -53,8 +53,8 @@ Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADiegoMQ&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADiegoMQ&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Diego-MQ&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Diego-MQ&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
 
 - 📧 Email: alvarodiegomq@gmail.com  
 - 📸 Instagram: [@alv_diego](https://instagram.com/alv_diego)  
-- 💻 GitHub: [ADiegoMQ](https://github.com/ADiegoMQ)
+- 💻 GitHub: [Alvaro-Diego-MQ](https://github.com/Alvaro-Diego-MQ)
 
 ---
 
