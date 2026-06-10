@@ -18,7 +18,7 @@ Gracias por visitar mi perfil de GitHub 😄
 
 ---
 
-<img width="30%" align="right" src="assets/gifs/cat.gif" />
+<img width="20%" align="right" src="assets/gifs/cat.gif" />
 
 <br>
 <br>
