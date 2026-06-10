@@ -29,7 +29,7 @@ Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
 - 🎧 Fan de la música y el aprendizaje autodidacta  
 
     </td>
-    <td width="55%" align="right" valign="top">
+    <td width="75%" align="right" valign="top">
       <img src="assets/gifs/cat.gif" width="180px" />
     </td>
   </tr>
