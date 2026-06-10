@@ -1,15 +1,15 @@
-<h1>👋 Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1> Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
 </p>
 
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=ADiegoMQ.ADiegoMQ)
-[![Seguidores GitHub](https://img.shields.io/github/followers/ADiegoMQ?label=Sígueme&style=social)](https://github.com/ADiegoMQ)
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Alvaro-Diego-MQ.Alvaro-Diego-MQ)
+[![Seguidores GitHub](https://img.shields.io/github/followers/ADiegoMQ?label=Sígueme&style=social)](https://github.com/Alvaro-Diego-MQ)
 
 ---
 
 <div>
-Hola! Soy <b>Diego</b> 👨‍💻  
+Hola! Soy <b>A Diego</b> 👨‍💻  
 Gracias por visitar mi perfil de GitHub 😄
 </div>
 
@@ -57,9 +57,9 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ADiegoMQ&show_icons=true&theme=tokyonight" height="160px">
+<img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Diego-MQ&show_icons=true&theme=tokyonight" height="160px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADiegoMQ&layout=compact&theme=tokyonight" height="160px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Diego-MQ&layout=compact&theme=tokyonight" height="160px">
 
 </p>
 
@@ -67,8 +67,8 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 
 <h2>📫 Contacto</h2>
 
-- 📧 Email: tu correo aquí  
-- 📸 Instagram: tu usuario aquí  
+- 📧 Email: alvarodiegomq@gmail.com
+- 📸 Instagram: @alv_diego 
 - 💼 LinkedIn: tu perfil aquí  
 
 ---
