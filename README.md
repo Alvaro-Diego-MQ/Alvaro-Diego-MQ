@@ -1,5 +1,7 @@
-<h1> Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <p align="center"> </p>
-
+<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Diego </h1> <p align="center"> </p>
+<p align="center">
+  Desarrollador en formación | Frontend & Backend
+</p>
 <p align="center">
   <a href="https://github.com/Alvaro-Diego-MQ">
     <img src="https://img.shields.io/github/followers/Alvaro-Diego-MQ?label=Seguidores&style=for-the-badge&color=0e75b6&logo=github" />
