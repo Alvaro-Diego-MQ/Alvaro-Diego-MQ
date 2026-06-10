@@ -15,7 +15,6 @@ Gracias por visitar mi perfil de GitHub 😄
 ---
 
 <h2>🧠 Sobre mí
-<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
 </h2>
 
 <img width="25%" margin-right="25px" align="right" src="assets/gifs/cat.gif" />
