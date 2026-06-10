@@ -30,7 +30,7 @@ Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
 
     </td>
     <td width="75%" align="right" valign="top">
-      <img src="assets/gifs/cat.gif" width="260px" />
+      <img src="assets/gifs/cat.gif" width="280px" />
     </td>
   </tr>
 </table>
