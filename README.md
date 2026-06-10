@@ -14,12 +14,11 @@ Gracias por visitar mi perfil de GitHub 😄
 
 ---
 
-<h2>🧠 Sobre mí
-</h2>
+<h2>🧠 Sobre mí </h2>
 
 <img width="25%" margin-right="25px" align="right" src="assets/gifs/cat.gif" />
 
----
+
 - 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
 - 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
 - 👯 Me gustaría colaborar en: proyectos web  
