@@ -67,7 +67,7 @@ Soy un apasionado de la creación de interfaces modernas y funcionales. Me enfoc
   <a href="mailto:alvarodiegomq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/alv_diego">
+  <a href="https://www.instagram.com/alv_diego_rck">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
