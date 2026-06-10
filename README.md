@@ -1,5 +1,7 @@
+<h1 align="center">Diego MQ</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=200&section=header&text=Diego%20MQ&fontSize=80&animation=fadeIn" width="100%" />
+  Desarrollador en formación | Frontend & Backend
 </p>
 
 <p align="center">
