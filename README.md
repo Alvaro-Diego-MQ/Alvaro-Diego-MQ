@@ -1,71 +1,72 @@
-<h1> Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">👋 Hola, soy Diego</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
-[![Seguidores GitHub](https://img.shields.io/github/followers/ADiegoMQ?label=Sígueme&style=social)](https://github.com/Alvaro-Diego-MQ)
+<p align="center">
+  <a href="https://github.com/ADiegoMQ">
+    <img src="https://img.shields.io/github/followers/ADiegoMQ?label=Seguidores&style=social">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ADiegoMQ&label=Visitas&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-<div>
-Hola! Soy <b>A Diego</b> 👨‍💻  
-Gracias por visitar mi perfil de GitHub 😄
-</div>
+## 👨‍💻 Sobre mí
+
+<img align="right" width="260px" src="assets/gifs/cat.gif" />
+
+Soy **Diego**, desarrollador en formación apasionado por la programación y el desarrollo web.  
+Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
+
+- 🔭 Actualmente trabajando en: proyectos personales y práctica constante  
+- 🌱 Aprendiendo: Git, Java, JavaScript y desarrollo web  
+- 👯 Busco colaborar en: proyectos web y open source  
+- 💬 Pregúntame sobre: HTML, CSS, JavaScript, SQL y C#  
+- 🎧 Fan de la música y el aprendizaje autodidacta  
 
 ---
 
-<h2>🧠 Sobre mí </h2>
+## ⚒️ Tecnologías
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40px"/>
+
+</p>
 
 ---
 
-<img width="26%" align="right" src="assets/gifs/cat.gif" />
+## 🚀 Proyectos
 
-<br>
-<br>
-
-- 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
-- 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
-- 👯 Me gustaría colaborar en: proyectos web  
-- 💬 Pregúntame sobre: HTML, CSS, JavaScript, SQL, C#  
-- ⚡ Dato curioso: me gustan los girasoles 🌻  
-
-<br>
-<br>
+- 🌐 Proyectos personales en desarrollo  
+- 💡 Experimentos con HTML, CSS y JavaScript  
+- 📦 Repositorios en constante mejora  
 
 ---
 
-<h2>⚒️ Tecnologías que uso
-<img src="https://media2.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.gif" width="80px" />
-</h2>
+## 📊 GitHub Stats
 
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
-<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADiegoMQ&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADiegoMQ&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<h2>🚀 Proyectos
-</h2>
+## 📫 Contacto
 
-- 🐸 Proyecto Rana (modernización web)
-- 🌐 Proyectos personales en desarrollo
-- 💡 Experimentos con HTML, CSS y JavaScript
-
----
-
-<h2>📫 Contacto</h2>
-
-- 📧 Email: alvarodiegomq@gmail.com
-- 📸 Instagram: @alv_diego 
+- 📧 Email: alvarodiegomq@gmail.com  
+- 📸 Instagram: [@alv_diego](https://instagram.com/alv_diego)  
+- 💻 GitHub: [ADiegoMQ](https://github.com/ADiegoMQ)
 
 ---
 
-<div align="center">
-
-
-> “Un commit a la vez, mejorando cada día 🚀”
-
-</div>
+<p align="center">
+  <b>“Un commit a la vez, mejorando cada día 🚀”</b>
+</p>
