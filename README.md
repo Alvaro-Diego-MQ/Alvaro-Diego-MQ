@@ -3,7 +3,6 @@
 <p align="center">
 </p>
 
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Alvaro-Diego-MQ.Alvaro-Diego-MQ)
 [![Seguidores GitHub](https://img.shields.io/github/followers/ADiegoMQ?label=Sígueme&style=social)](https://github.com/Alvaro-Diego-MQ)
 
 ---
@@ -52,30 +51,15 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 
 ---
 
-<h2>📊 Estadísticas de GitHub
-</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Diego-MQ&show_icons=true&theme=tokyonight" height="160px">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Diego-MQ&layout=compact&theme=tokyonight" height="160px">
-
-</p>
-
----
-
 <h2>📫 Contacto</h2>
 
 - 📧 Email: alvarodiegomq@gmail.com
 - 📸 Instagram: @alv_diego 
-- 💼 LinkedIn: tu perfil aquí  
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180px">
 
 > “Un commit a la vez, mejorando cada día 🚀”
 
