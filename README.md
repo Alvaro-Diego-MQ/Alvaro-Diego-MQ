@@ -30,7 +30,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThrczYzZWN5YWUzODA0YnBne
 ---
 
 <h2>⚒️ Tecnologías que uso
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
+<img src="https://media2.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.gif" width="80px" />
 </h2>
 
 <a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
