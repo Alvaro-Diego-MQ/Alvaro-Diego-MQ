@@ -15,7 +15,10 @@ Gracias por visitar mi perfil de GitHub 😄
 ---
 
 <h2>🧠 Sobre mí </h2>
+---
+<br>
 
+<br>
 <img width="25%" margin-right="25px" align="right" src="assets/gifs/cat.gif" />
 
 
@@ -25,6 +28,9 @@ Gracias por visitar mi perfil de GitHub 😄
 - 💬 Pregúntame sobre: HTML, CSS, JavaScript, SQL, C#  
 - ⚡ Dato curioso: me gustan los girasoles 🌻  
 
+<br>
+
+<br>
 ---
 
 <h2>⚒️ Tecnologías que uso
