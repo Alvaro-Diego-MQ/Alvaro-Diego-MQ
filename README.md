@@ -18,7 +18,7 @@ Gracias por visitar mi perfil de GitHub 😄
 <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
 </h2>
 
-<img width="55%" align="right" src="https://media.giphy.com/media/3o6vY7kb1ySy3G2i08/giphy.gif" />
+<img width="55%" align="right" src="assets/gifs/cat.gif" />
 
 - 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
 - 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
