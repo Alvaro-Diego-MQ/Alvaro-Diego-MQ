@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="75%" valign="top">
 
 Soy **Diego**, desarrollador en formación apasionado por la programación y el desarrollo web.  
 Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
