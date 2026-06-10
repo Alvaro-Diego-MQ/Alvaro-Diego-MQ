@@ -1,86 +1,82 @@
-<!-- 🌈 HEADER ANIMADO -->
-<div align="center">
+<h1>👋 Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-# 👋 Hola, soy Diego
+<p align="center">
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
-
-💻 *Desarrollador Web en formación*  
-🎯 Creando proyectos modernos y creativos  
-🚀 Amante del frontend y el diseño limpio  
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=ADiegoMQ.ADiegoMQ)
+[![Seguidores GitHub](https://img.shields.io/github/followers/ADiegoMQ?label=Sígueme&style=social)](https://github.com/ADiegoMQ)
 
 ---
 
-<!-- 🔥 GIF KIRBY -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px">
-
+<div>
+Hola! Soy <b>Diego</b> 👨‍💻  
+Gracias por visitar mi perfil de GitHub 😄
 </div>
 
 ---
 
-# 🧠 Sobre mí
+<h2>🧠 Sobre mí
+<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
+</h2>
 
-- 🌱 Aprendiendo desarrollo web moderno
-- 🎨 Me gusta crear interfaces bonitas y animadas
-- 💡 Siempre buscando mejorar mis proyectos
-- 🕹️ Fan de los videojuegos y el diseño creativo
+<img width="55%" align="right"
+src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
+- 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
+- 👯 Me gustaría colaborar en: proyectos web  
+- 💬 Pregúntame sobre: HTML, CSS, JavaScript, SQL, C#  
+- ⚡ Dato curioso: me gustan los girasoles 🌻  
 
 ---
 
-# ⚒️ Tecnologías que uso
+<h2>⚒️ Tecnologías que uso
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
+</h2>
+
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+<a href="#"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
+
+---
+
+<h2>🚀 Proyectos
+</h2>
+
+- 🐸 Proyecto Rana (modernización web)
+- 🌐 Proyectos personales en desarrollo
+- 💡 Experimentos con HTML, CSS y JavaScript
+
+---
+
+<h2>📊 Estadísticas de GitHub
+</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ADiegoMQ&show_icons=true&theme=tokyonight" height="160px">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADiegoMQ&layout=compact&theme=tokyonight" height="160px">
+
+</p>
+
+---
+
+<h2>📫 Contacto</h2>
+
+- 📧 Email: tu correo aquí  
+- 📸 Instagram: tu usuario aquí  
+- 💼 LinkedIn: tu perfil aquí  
+
+---
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180px">
 
-</div>
-
----
-
-# 🚀 Proyectos destacados
-
-✨ Aquí algunos de mis proyectos:
-
-- 🐸 **Proyecto Rana** → Modernización web con diseño limpio  
-- 🌐 Portafolio personal (en progreso)  
-- 🎮 Mini proyectos en HTML/CSS/JS  
-
----
-
-# 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160px">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160px">
-
-</div>
-
----
-
-# 📫 Contacto
-
-<div align="center">
-
-📸 Instagram: tu_usuario  
-💼 LinkedIn: tu_link  
-📧 Email: tu_correo  
-
-</div>
-
----
-
-# 🧃 Extra
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200px">
-
-> *“Siempre mejorando un commit a la vez”*
+> “Un commit a la vez, mejorando cada día 🚀”
 
 </div>
