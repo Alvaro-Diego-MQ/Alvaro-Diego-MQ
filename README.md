@@ -1,8 +1,4 @@
-<h1 align="center">Diego MQ</h1>
-
-<p align="center">
-  Desarrollador en formación | Frontend & Backend
-</p>
+<h1> Hola, soy Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <p align="center"> </p>
 
 <p align="center">
   <a href="https://github.com/Alvaro-Diego-MQ">
