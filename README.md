@@ -15,9 +15,9 @@
 
 ## 👨‍💻 Sobre mí
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-<div style="max-width: 65%;">
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 Soy **Diego**, desarrollador en formación apasionado por la programación y el desarrollo web.  
 Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
@@ -28,13 +28,12 @@ Me gusta aprender cosas nuevas constantemente y construir proyectos personales.
 - 💬 Pregúntame sobre: HTML, CSS, JavaScript, SQL y C#  
 - 🎧 Fan de la música y el aprendizaje autodidacta  
 
-</div>
-
-<div style="max-width: 30%; text-align: right;">
-  <img src="assets/gifs/cat.gif" width="180px" />
-</div>
-
-</div>
+    </td>
+    <td width="35%" align="right" valign="top">
+      <img src="assets/gifs/cat.gif" width="180px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
