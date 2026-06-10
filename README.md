@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Diego </h1> <p align="center"> </p>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Diego </h1> <p align="center"> </p>
 <p align="center">
   Desarrollador en formación | Frontend & Backend
 </p>
@@ -28,7 +28,7 @@ Soy un apasionado de la creación de interfaces modernas y funcionales. Me enfoc
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/gifs/cat.gif" width="220px" />
+      <img src="assets/gifs/cat.gif" width="280px" />
     </td>
   </tr>
 </table>
