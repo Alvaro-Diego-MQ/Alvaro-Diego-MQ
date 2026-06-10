@@ -16,11 +16,10 @@ Gracias por visitar mi perfil de GitHub 😄
 
 <h2>🧠 Sobre mí </h2>
 ---
-<br>
 
 <br>
-<img width="25%" margin-right="25px" align="right" src="assets/gifs/cat.gif" />
-
+<br>
+<img width="30%" align="right" src="assets/gifs/cat.gif" />
 
 - 🔭 Actualmente estoy trabajando en: proyectos personales y aprendizaje  
 - 🌱 Estoy aprendiendo: Git, Java, JavaScript y desarrollo web  
@@ -29,8 +28,8 @@ Gracias por visitar mi perfil de GitHub 😄
 - ⚡ Dato curioso: me gustan los girasoles 🌻  
 
 <br>
-
 <br>
+
 ---
 
 <h2>⚒️ Tecnologías que uso
