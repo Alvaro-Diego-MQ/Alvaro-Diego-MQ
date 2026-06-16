@@ -18,13 +18,12 @@
     <td width="60%" valign="top">
 
 ### 🚀 Desarrollador Full Stack en formación
-Soy un apasionado de la creación de interfaces modernas y funcionales. Me enfoco en escribir código limpio y aprender las mejores prácticas de la industria.
+Me apasiona el desarrollo web y la creación de aplicaciones modernas y funcionales.
 
-- 🔭 **Actualmente:** Construyendo proyectos con **Vue** y **TypeScript**.
-- 🌱 **Aprendiendo:** Perfeccionando el manejo de estados y arquitecturas escalables.
-- 💬 **Hablemos de:** Desarrollo web, lógica de programación y tecnología.
-- ⚡ **Dato curioso:** Siempre busco la forma más eficiente de resolver un problema.
-- 🎧 **Fan de la música* y el aprendizaje autodidacta**  
+- 🔭 **Actualmente** construyendo proyectos con Vue y TypeScript.**.
+- 🌱 **Aprendiendo** nuevas tecnologías y buenas prácticas de desarrollo.
+- 💬 **Interesado** en desarrollo web, programación y tecnología.
+- 🎧 **Fan** de la música y aprendizaje autodidacta.  
 
     </td>
     <td width="40%" align="center" valign="middle">
