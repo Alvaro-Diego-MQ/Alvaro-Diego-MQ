@@ -27,7 +27,7 @@ Me apasiona el desarrollo web y la creación de aplicaciones modernas y funciona
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/gifs/cat.gif" width="300px" />
+      <img src="assets/gifs/cat.gif" width="280px" />
     </td>
   </tr>
 </table>
