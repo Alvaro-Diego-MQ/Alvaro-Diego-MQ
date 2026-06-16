@@ -23,7 +23,7 @@ Me apasiona el desarrollo web y la creación de aplicaciones modernas y funciona
 - 🔭 **Actualmente construyendo proyectos con Vue y TypeScript.**
 - 🌱 **Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.**
 - 💬 **Interesado en desarrollo web, programación y tecnología.**
-- 🎧 **Fan de la música y aprendizaje autodidacta. **  <img src="assets/gifs/kirby-music.gif" width="15px" /> 
+- 🎧 **Fan de la música y aprendizaje autodidacta.**  <img src="assets/gifs/kirby-music.gif" width="15px" /> 
 
     </td>
     <td width="40%" align="center" valign="middle">
