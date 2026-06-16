@@ -20,10 +20,10 @@
 ### 🚀 Desarrollador Full Stack en formación
 Me apasiona el desarrollo web y la creación de aplicaciones modernas y funcionales.
 
-- 🔭 **Actualmente** construyendo proyectos con Vue y TypeScript.**.
-- 🌱 **Aprendiendo** nuevas tecnologías y buenas prácticas de desarrollo.
-- 💬 **Interesado** en desarrollo web, programación y tecnología.
-- 🎧 **Fan** de la música y aprendizaje autodidacta.  
+- 🔭 **Actualmente construyendo proyectos con Vue y TypeScript.**
+- 🌱 **Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.**
+- 💬 **Interesado en desarrollo web, programación y tecnología.**
+- 🎧 **Fan de la música y aprendizaje autodidacta.**  
 
     </td>
     <td width="40%" align="center" valign="middle">
